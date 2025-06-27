@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+ body {
+      background-color: #fefefe;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 50px;
+    }
+    img {
+      width: 300px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+    h1 {
+      color: #333;
+    }
